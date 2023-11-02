@@ -1,3 +1,3 @@
 # Learning-GO-Book-Exercises
-- [*] Chapter 1
-- [*] Chapter 2
+- [x] Chapter 1
+- [x] Chapter 2
