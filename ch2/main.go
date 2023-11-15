@@ -22,5 +22,10 @@ func main(){
 	fmt.Println(real(com))
 	fmt.Println(imag(com))
 
+	// Explicit type check
+	var name string = ""
+	check := name == ""
+	fmt.Println(check)
+
 }
 
